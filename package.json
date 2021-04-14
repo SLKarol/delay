@@ -1,5 +1,5 @@
 {
-  "name": "delay",
+  "name": "@stanislavkarol/delay",
   "version": "1.0.0",
   "description": "Установить задержку в ms, вернуть промис.",
   "main": "index.js",
