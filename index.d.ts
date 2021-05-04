@@ -1,5 +1,4 @@
-/// <reference types="node" />
+declare function delay(ms?: number): Promise<void>;
+declare namespace delay {}
 
-declare module "@stanislavkarol/delay" {
-  export default function delay(ms?: number): Promise<any>;
-}
+export = delay;

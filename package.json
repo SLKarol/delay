@@ -1,6 +1,6 @@
 {
   "name": "@stanislavkarol/delay",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Установить задержку в ms, вернуть промис.",
   "main": "index.js",
   "types": "./index.d.ts",
